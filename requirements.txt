@@ -1,0 +1,8 @@
+
+numpy
+pandas
+scikit-learn
+earthengine-api
+joblib
+streamlit
+geemap
