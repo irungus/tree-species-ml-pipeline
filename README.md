@@ -19,7 +19,7 @@ This project implements an end-to-end geospatial machine learning pipeline for c
 5. Deploy model 
 
 ## 📊 Results
-- Model: Random Forest
+- Best Model: XGBoost
 - Accuracy: 75% 
 
 ## 🛠 Tools & Technologies
