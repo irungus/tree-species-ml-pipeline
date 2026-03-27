@@ -7,20 +7,20 @@ This project implements an end-to-end geospatial machine learning pipeline for c
 - Feature extraction from Sentinel-1 (SAR) and Sentinel-2 (optical)
 - Vegetation indices (NDVI, EVI, SAVI)
 - Terrain and climate data integration
-- Machine learning pipeline with Random Forest
+- Machine learning pipeline with  Random Forest, XGBoost, lightGBM)
 - Hyperparameter tuning and model evaluation
 
 ## 🧱 Project Structure
 ## ⚙️ Workflow
 1. Extract geospatial features using Google Earth Engine
 2. Perform feature engineering and preprocessing
-3. Train ML models (Random Forest, XGBoost)
+3. Train ML models (Random Forest, XGBoost, lightGBM)
 4. Evaluate model performance
-5. Deploy model (optional Streamlit app)
+5. Deploy model 
 
 ## 📊 Results
 - Model: Random Forest
-- Accuracy: XX% (update after training)
+- Accuracy: 75% 
 
 ## 🛠 Tools & Technologies
 - Google Earth Engine
